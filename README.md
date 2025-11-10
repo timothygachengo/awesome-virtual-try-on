@@ -27,6 +27,10 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Image-based (2D) Virtual Try-on
+
+  #### NeurIPS 2025
+  - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
+
   #### AAAI 2025
   - MV-VTON: Multi-View Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/abs/2404.17364), [Code/Data](https://github.com/hywang2002/MV-VTON), [Project](https://hywang2002.github.io/MV-VTON/)
 
