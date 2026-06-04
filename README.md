@@ -38,6 +38,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   #### NeurIPS 2025
   - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
 
+  #### CVPR 2025
+  - VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding - [Project](https://vton-handfit.github.io/)
+
   #### AAAI 2025
   - MV-VTON: Multi-View Virtual Try-On with Diffusion Models - [Paper](https://arxiv.org/abs/2404.17364), [Code/Data](https://github.com/hywang2002/MV-VTON), [Project](https://hywang2002.github.io/MV-VTON/)
 
@@ -197,8 +200,6 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 
-
-
 ## 3D Virtual Try-on
 
   #### CVPR 2026
@@ -207,6 +208,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   #### IJCV 2026
   - GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - [Project](https://yukangcao.github.io/GS-VTON/), [Paper](https://arxiv.org/abs/2410.05259), [Code](https://github.com/yukangcao/GS-VTON)
 
+  #### CVPR 2025
+  - VTON 360: High-Fidelity Virtual Try-On from Any Viewing Direction - [Project](https://scnuhealthy.github.io/VTON360/)
 
   #### CVPR 2024
   - DiffAvatar Simulation-Ready Garment Optimization with Differentiable Simulation - [Project](https://people.csail.mit.edu/liyifei/publication/diffavatar/), [Code](https://github.com/facebookresearch/DiffAvatar)
