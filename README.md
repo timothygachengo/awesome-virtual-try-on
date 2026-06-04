@@ -32,6 +32,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
    - Mobile-VTON: High-Fidelity On-Device Virtual Try-On - [Project/Paper](https://zhenchenwan.github.io/Mobile-VTON/)
    - MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.pdf)
    - Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision - [Project/Paper](https://hyunsoocha.github.io/vanast/)
+   - Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories - [Project](https://artmesciencelab.github.io/Garments2Look/)
+
 
   #### NeurIPS 2025
   - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
@@ -199,6 +201,9 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## 3D Virtual Try-on
 
+  #### CVPR 2026
+  - MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data - [Project](https://hunorlaczko.github.io/MV-Fashion/)
+
   #### IJCV 2026
   - GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - [Project](https://yukangcao.github.io/GS-VTON/), [Paper](https://arxiv.org/abs/2410.05259), [Code](https://github.com/yukangcao/GS-VTON)
 
@@ -298,6 +303,7 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
   
 ## Video Virtual Try-on
 
+- Eevee: Towards Close-up High-resolution Video-based Virtual Try-on, CVPR 2026 - [Project](https://github.com/AMAP-ML/Eevee)
 - ClothFormer: Taming Video Virtual Try-on in All Module, CVPR 2022 - [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_ClothFormer_Taming_Video_Virtual_Try-On_in_All_Module_CVPR_2022_paper.pdf), [Code](https://github.com/luxiangju-PersonAI/ClothFormer), [Project](https://cloth-former.github.io/)
 - MV-TON: Memory-based Video Virtual Try-on network, ACM MM 2021 - [Paper](https://arxiv.org/abs/2108.07502)
 - ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on, WACV 2021 Workshop - [Project/Paper/Code](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1)
@@ -365,6 +371,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 
 ## Datasets for Virtual Try-on
+- MV-Fashion, CVPR 2026 - [Project](https://hunorlaczko.github.io/MV-Fashion/)
+- Garments2Look, CVPR 2026 - [Project](https://artmesciencelab.github.io/Garments2Look/)
 - StreetTryOn - [Download](https://github.com/cuiaiyu/street-tryon-benchmark)
 - CLOTH4D, CVPR 2023 - [Download](https://github.com/AemikaChow/CLOTH4D)
 - DressCode - [Download](https://docs.google.com/forms/d/e/1FAIpQLSeWVzxWcj3JSALtthuw-2QDAbf2ymiK37sA4pRQD4tZz2vqsw/viewform), [Paper](https://arxiv.org/pdf/2204.08532.pdf)
