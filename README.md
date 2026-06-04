@@ -30,6 +30,8 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
   #### CVPR 2026
    - Mobile-VTON: High-Fidelity On-Device Virtual Try-On - [Project/Paper](https://zhenchenwan.github.io/Mobile-VTON/)
+   - MOFA-VTON: More Fashion Possibilities with Fine-Grained Adaptations in Virtual Try-On - [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Han_MOFA-VTON_More_Fashion_Possibilities_with_Fine-Grained_Adaptations_in_Virtual_Try-On_CVPR_2026_paper.pdf)
+   - Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision - [Project/Paper](https://hyunsoocha.github.io/vanast/)
 
   #### NeurIPS 2025
   - Mitigating Occlusions in Virtual Try-On via A Simple-Yet-Effective Mask-Free Framework - [Paper](https://openreview.net/pdf?id=oh2MpJHGHW), [Code](https://github.com/du-chenghu/OccFree-VTON/), [Project/Data](https://du-chenghu.github.io/OccFree-VTON/)
